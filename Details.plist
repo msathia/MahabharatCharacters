@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>கிருஷ்ணண்</string>
+		<key>OtherNames</key>
+		<string>மாதவன், தாமோதரன்,கேசவன், ஜனார்த்தனன்</string>
+		<key>OtherInfo</key>
+		<string>கடவுள்</string>
+		<key>Father</key>
+		<string>vasudevan</string>
+		<key>Mother</key>
+		<string>devaki</string>
+		<key>FosterFather</key>
+		<string>Nandagopan</string>
+		<key>FosterMother</key>
+		<string>Yasoda</string>
+		<key>Avatar</key>
+		<string>MahaVishnu</string>
+		<key>Guru</key>
+		<string>Santheepani</string>
+		<key>Native</key>
+		<string>Gokulam</string>
+		<key>Siblings</key>
+		<string>Balaram, Subathra</string>
+		<key>Spouse</key>
+		<string>Rukmini,sathyabama, Jambavathi, Nakgnajithi, Kalindhi</string>
+		<key>Marriage</key>
+		<string>Arranged, Love,Political</string>
+		<key>Children</key>
+		<string>Prathyumnan</string>
+		<key>Specialities</key>
+		<string>9thAvatar of Vishnu, </string>
+		<key>Opponents</key>
+		<string>Kamsan, Sisubalan, </string>
+		<key>Death</key>
+		<string>Infight Yadavas</string>
+		<key>Killer</key>
+		<string>Jara(Hunter)</string>
+	</dict>
+	<dict>
+		<key>OtherNames</key>
+		<string>Arjuna,adfds</string>
+		<key>OtherInfo</key>
+		<string>pandava</string>
+		<key>name</key>
+		<string>Arjuna</string>
+	</dict>
+</array>
+</plist>

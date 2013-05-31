@@ -1,0 +1,11 @@
+/* Details Constants.h*/
+#define NAME_KEY @"Name"
+#define OTHERINFO @"OtherInfo"
+#define OTHERNAMES @"OtherNames"
+#define FATHER @"Father"
+#define MOTHER @"Mother"
+#define FOSTERMOTHER @"FosterMother"
+#define FOSTERFATHER @"FosterFather"
+#define SPOUSE    @"Spouse"
+#define AVATAR @"Avatar"
+#define GURU @"Guru"

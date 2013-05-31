@@ -1,0 +1,364 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DrinkMixerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 457}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 478}";
+			sepNavWindowFrame = "{{15, 88}, {1367, 790}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DrinkMixerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{153, 2053}";
+			sepNavWindowFrame = "{{15, 88}, {1367, 790}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DrinkMixer */ = {
+		activeExec = 0;
+		executables = (
+			4945920B1483123800ADCDE7 /* DrinkMixer */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* DrinkMixer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 452}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 326}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 639}}";
+			sepNavSelRange = "{232, 24}";
+			sepNavVisRange = "{0, 316}";
+			sepNavWindowFrame = "{{15, 88}, {1367, 790}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 2288}}";
+			sepNavSelRange = "{4293, 0}";
+			sepNavVisRange = "{4366, 384}";
+			sepNavWindowFrame = "{{40, 88}, {1367, 790}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 4945920B1483123800ADCDE7 /* DrinkMixer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DrinkMixer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DrinkMixer */,
+		);
+		codeSenseManager = 494592171483123D00ADCDE7 /* Code sense */;
+		executables = (
+			4945920B1483123800ADCDE7 /* DrinkMixer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					905,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344187653;
+			PBXWorkspaceStateSaveDate = 344187653;
+		};
+		perUserProjectItems = {
+			4945927E1483B3C500ADCDE7 /* PBXTextBookmark */ = 4945927E1483B3C500ADCDE7 /* PBXTextBookmark */;
+			494593EE1483DDC000ADCDE7 /* PBXTextBookmark */ = 494593EE1483DDC000ADCDE7 /* PBXTextBookmark */;
+			494593F01483DDC000ADCDE7 /* PlistBookmark */ = 494593F01483DDC000ADCDE7 /* PlistBookmark */;
+			494593F51483DDC000ADCDE7 /* PlistBookmark */ = 494593F51483DDC000ADCDE7 /* PlistBookmark */;
+			49BA336C1483E899005C5824 /* PBXTextBookmark */ = 49BA336C1483E899005C5824 /* PBXTextBookmark */;
+			49BA33B9148437B3005C5824 /* PlistBookmark */ = 49BA33B9148437B3005C5824 /* PlistBookmark */;
+			49BA33BB148437B3005C5824 /* PBXTextBookmark */ = 49BA33BB148437B3005C5824 /* PBXTextBookmark */;
+			49BA33BD148437B3005C5824 /* PBXTextBookmark */ = 49BA33BD148437B3005C5824 /* PBXTextBookmark */;
+			49BA33F1148449AB005C5824 /* PBXTextBookmark */ = 49BA33F1148449AB005C5824 /* PBXTextBookmark */;
+			49BA33F2148449AB005C5824 /* PBXTextBookmark */ = 49BA33F2148449AB005C5824 /* PBXTextBookmark */;
+			49BA342C14844BF2005C5824 /* PlistBookmark */ = 49BA342C14844BF2005C5824 /* PlistBookmark */;
+			49BA344114844DB5005C5824 /* PBXBookmark */ = 49BA344114844DB5005C5824 /* PBXBookmark */;
+			49BA344414844DF8005C5824 /* PBXTextBookmark */ = 49BA344414844DF8005C5824 /* PBXTextBookmark */;
+			49BA346D148468D7005C5824 /* PBXTextBookmark */ = 49BA346D148468D7005C5824 /* PBXTextBookmark */;
+			49BA346E148468D7005C5824 /* PlistBookmark */ = 49BA346E148468D7005C5824 /* PlistBookmark */;
+			49BA346F148468D7005C5824 /* PBXTextBookmark */ = 49BA346F148468D7005C5824 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 494592161483123D00ADCDE7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 434}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+			sepNavWindowFrame = "{{15, 88}, {1367, 790}}";
+		};
+	};
+	4945920B1483123800ADCDE7 /* DrinkMixer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DrinkMixer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	494592161483123D00ADCDE7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	494592171483123D00ADCDE7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4945924B148320E500ADCDE7 /* MahaArray.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 88}, {1367, 790}}";
+		};
+	};
+	4945926D1483249B00ADCDE7 /* DetailedViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 520}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{0, 958}";
+			sepNavWindowFrame = "{{73, 88}, {1367, 790}}";
+		};
+	};
+	4945926E1483249B00ADCDE7 /* DetailedViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 1040}}";
+			sepNavSelRange = "{1607, 0}";
+			sepNavVisRange = "{1263, 637}";
+			sepNavWindowFrame = "{{32, 88}, {1367, 790}}";
+		};
+	};
+	4945927E1483B3C500ADCDE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* DrinkMixer_Prefix.pch */;
+		name = "DrinkMixer_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 0;
+	};
+	494593471483D67A00ADCDE7 /* Details.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{73, 88}, {1367, 790}}";
+		};
+	};
+	494593EE1483DDC000ADCDE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 12";
+		rLen = 24;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	494593F01483DDC000ADCDE7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DrinkMixer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Connect/Documents/DrinkMixer/DrinkMixer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	494593F51483DDC000ADCDE7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4945924B148320E500ADCDE7 /* MahaArray.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/Connect/Documents/DrinkMixer/MahaArray.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	49BA33521483E613005C5824 /* DetailsConstants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 662}}";
+			sepNavSelRange = "{311, 0}";
+			sepNavVisRange = "{0, 311}";
+			sepNavWindowFrame = "{{104, -36}, {1367, 790}}";
+		};
+	};
+	49BA336C1483E899005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	49BA33AF1484378D005C5824 /* Maha.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{475, 78}, {1367, 790}}";
+		};
+	};
+	49BA33B9148437B3005C5824 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 494593471483D67A00ADCDE7 /* Details.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/Connect/Documents/DrinkMixer/Details.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	49BA33BB148437B3005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DrinkMixerAppDelegate.h */;
+		name = "DrinkMixerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	49BA33BD148437B3005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DrinkMixerAppDelegate.m */;
+		name = "DrinkMixerAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 1503;
+		vrLoc = 280;
+	};
+	49BA33F1148449AB005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 15";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 999;
+		vrLoc = 0;
+	};
+	49BA33F2148449AB005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49BA33521483E613005C5824 /* DetailsConstants.h */;
+		name = "DetailsConstants.h: 9";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	49BA342C14844BF2005C5824 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49BA33AF1484378D005C5824 /* Maha.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/Connect/Documents/DrinkMixer/Maha.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	49BA344114844DB5005C5824 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4945926E1483249B00ADCDE7 /* DetailedViewController.m */;
+	};
+	49BA344414844DF8005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4945926D1483249B00ADCDE7 /* DetailedViewController.h */;
+		name = "DetailedViewController.h: 14";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 0;
+	};
+	49BA346D148468D7005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4945926E1483249B00ADCDE7 /* DetailedViewController.m */;
+		name = "DetailedViewController.m: 52";
+		rLen = 0;
+		rLoc = 1772;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 1821;
+	};
+	49BA346E148468D7005C5824 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 49BA33AF1484378D005C5824 /* Maha.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/Connect/Documents/DrinkMixer/Maha.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	49BA346F148468D7005C5824 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4945926E1483249B00ADCDE7 /* DetailedViewController.m */;
+		name = "DetailedViewController.m: 52";
+		rLen = 0;
+		rLoc = 1774;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 753;
+	};
+	8D1107310486CEB800E47090 /* DrinkMixer-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 88}, {1367, 790}}";
+		};
+	};
+}
