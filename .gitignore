@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+*service-account*.json
+*service*account*.json
+*credentials*.json
+*credential*.json
+*secret*.json
+*token*.json
+
+# Local tooling
+.venv/
+node_modules/
+__pycache__/
